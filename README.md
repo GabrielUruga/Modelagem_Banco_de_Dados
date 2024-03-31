@@ -21,7 +21,7 @@
 <h2 align="left"> :wrench: Ferramentas </h2>
 
 <p align="justify"> 
-As ferramentas utilizadas para a elaboração do projeto estão listadas abaixo, caso queira baixar e acessar os arquivos das modelagens, será necessário o download de ambas as ferramentas citada.
+As ferramentas utilizadas para a elaboração do projeto estão listadas abaixo, caso queira baixar e acessar os arquivos das modelagens, será necessário o download de ambas as ferramentas citadas.
 
   
   Não há a necessidade de baixar os arquivos e os aplicativos, uma vez que as imagens de todas as modelagens feitas para o projeto estão na Documentação.
